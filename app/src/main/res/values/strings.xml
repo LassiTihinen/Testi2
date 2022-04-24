@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OuluParkLogin</string>
+    <string name="paapapa">OuluPark</string>
+    <string name="o_email">Sähköposti</string>
+    <string name="number">Puhelinnumero</string>
+    <string name="kirjaudu">Kirjaudu</string>
+    <string name="email">Syötä sähköposti</string>
+    <string name="password">Syötä salasana</string>
+    <string name="accountcreate">Luo tili</string>
+    <string name="or">Tai</string>
+    <string name="nimi">Nimi</string>
+    <string name="register">Luo tili</string>
+    <string name="passw">Salasana</string>
+</resources>
